@@ -1,2 +1,3 @@
-# LibraryApp
-recursion LibraryApp
+# このリポジトリは何？
+- APIの基本を勉強するためのプロジェクト
+- ISBNから書籍情報を取得するアプリケーション
